@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea2d3cf3-dc8e-4b41-b147-7cc685cffb4f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_4_3_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_4_3_RELEASE.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cs/cloud/ProviderUserApplication.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cs/cloud/dao/UserRespository.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cs/cloud/entity/User.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/cs/cloud/service/UserController.class" afterPath="" />
-    </list>
+    <list default="true" id="ea2d3cf3-dc8e-4b41-b147-7cc685cffb4f" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -302,7 +294,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="345" />
     <option name="y" value="46" />
     <option name="width" value="1515" />
@@ -474,15 +466,15 @@
       <workItem from="1555237632372" duration="7386000" />
       <workItem from="1555291522884" duration="681000" />
       <workItem from="1556093100014" duration="4478000" />
-      <workItem from="1556183981351" duration="24000" />
+      <workItem from="1556183981351" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16965000" />
+    <option name="totallyTimeSpent" value="17543000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
